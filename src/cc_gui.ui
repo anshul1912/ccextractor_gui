@@ -459,7 +459,7 @@ p, li { white-space: pre-wrap; }
           <item>
            <widget class="QRadioButton" name="radioButton_29">
             <property name="text">
-             <string>This is complete recotrding</string>
+             <string>This is complete recording</string>
             </property>
             <attribute name="buttonGroup">
              <string notr="true">buttonGroup_3</string>
@@ -728,7 +728,7 @@ p, li { white-space: pre-wrap; }
             <item>
              <widget class="QRadioButton" name="radioButton_37">
               <property name="text">
-               <string>Process the first strem with this type</string>
+               <string>Process the first stream with this type</string>
               </property>
              </widget>
             </item>
@@ -1099,7 +1099,7 @@ p, li { white-space: pre-wrap; }
          <item>
           <widget class="QCheckBox" name="checkBox_8">
            <property name="text">
-            <string>Dump interesting packets- usually, those that don't seems to follow specs</string>
+            <string>Dump interesting packets, usually those that don't seems to follow specs</string>
            </property>
           </widget>
          </item>
@@ -1120,7 +1120,7 @@ p, li { white-space: pre-wrap; }
          <item>
           <widget class="QCheckBox" name="checkBox_12">
            <property name="text">
-            <string>Enable lots of time same output.</string>
+            <string>Enable lots of time stamp output.</string>
            </property>
           </widget>
          </item>
@@ -1190,7 +1190,7 @@ p, li { white-space: pre-wrap; }
          <item>
           <widget class="QCheckBox" name="checkBox_21">
            <property name="text">
-            <string>Output Leveinshtein debug info(calculated distance,allowe,etc.)</string>
+            <string>Output Leveinshtein debug info(calculated distance allowed,etc.)</string>
            </property>
           </widget>
          </item>
@@ -3587,7 +3587,7 @@ p, li { white-space: pre-wrap; }
           <rect>
            <x>0</x>
            <y>20</y>
-           <width>736</width>
+           <width>801</width>
            <height>17</height>
           </rect>
          </property>
